@@ -1,23 +1,16 @@
-<h1 align="center">Hi 👋, I'm Pitabs Pradhan</h1>
-<h3 align="center">Full Stack developer</h3>
+Hi 👋 My name is Pitabas Pradhan
+================================
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=pitabasdev&label=Profile%20views&color=0e75b6&style=flat" alt="pitabasdev" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=pitabasdev" alt="pitabasdev" /></a> </p>
 
-- 🔭 I’m currently working on [Polyhouse](https://polyhousepkd.herokuapp.com/)
+Full Stack Developer 💻
+-----------------------
 
-- 🌱 I’m currently learning **React js,node js,mongoDB**
-
-- 👯 I’m looking to collaborate on [Result App](https://cutm-result.herokuapp.com/)
-
-- 👨‍💻 All of my projects are available at [https://github.com/pitabasdev](https://github.com/pitabasdev)
-
-- 💬 Ask me about **React js**
-
-- 📫 How to reach me **pitabas.pradhan834@gmail.com**
-
-- 📄 Know about my experiences [https://pitabasdev.github.io/resume/](https://pitabasdev.github.io/resume/)
+* 🌍  I'm based in India
+* ✉️  You can contact me at [pitabas.pradhan834@gmail.com](mailto:pitabas.pradhan834@gmail.com)
+* 🧠  I'm learning Web Development with Different Stacks.
+* 🤝  I'm open to collaborating on Interesting Full Stack Projects .
+* ⚡  Love For Programming .
 
 - ⚡ Fun fact **I am funny😅**
 
