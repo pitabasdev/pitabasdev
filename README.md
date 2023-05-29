@@ -12,8 +12,6 @@ Full Stack Developer 💻
 * 🤝  I'm open to collaborating on Interesting Full Stack Projects .
 * ⚡  Love For Programming .
 
-- ⚡ Fun fact **I am funny😅**
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/pitabas-pradhan-606aa3201" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/pitabas-pradhan-606aa3201" height="30" width="40" /></a>
