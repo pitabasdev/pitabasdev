@@ -6,6 +6,12 @@ Hi 👋 My name is Pitabas
 Full Stack Developer 💻
 -----------------------
 
+
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=harsadas&theme=highcontrast&hide_border=false&include_all_commits=true&count_private=true)
+![](https://github-readme-streak-stats.herokuapp.com/?user=harsadas&theme=highcontrast&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=harsadas&theme=highcontrast&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+
 * 🌍  I'm based in India
 * ✉️  You can contact me at [pitabas.pradhan834@gmail.com](mailto:pitabas.pradhan834@gmail.com)
 * 🧠  I'm learning Web Development with Different Stacks.
