@@ -87,11 +87,15 @@ Full Stack Developer 💻
 </div>
 <br>
 <br>
+<h2 style="color: #44AEFB">📊 Statistics</h2>
+
+![stats_banner](https://user-images.githubusercontent.com/78341798/194534778-d662496c-ae00-4e8d-ae9b-b90912054e7f.gif)
 
 
 
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=pitabasdev&show_icons=true&locale=en&layout=compact" alt="pitabasdev" /></p>
 
-<p>&nbsp;<img align="center" style="background-color: black;" src="https://github-readme-stats.vercel.app/api?username=pitabasdev&show_icons=true&locale=en" alt="pitabasdev" /></p>
+<p><img align="left" class="stats" src="https://github-readme-stats.vercel.app/api/top-langs?username=pitabasdev&show_icons=true&locale=en&layout=compact" alt="pitabasdev" /></p>
+
+<p>&nbsp;<img align="center" class="stats" style="background-color: black;" src="https://github-readme-stats.vercel.app/api?username=pitabasdev&show_icons=true&locale=en" alt="pitabasdev" /></p>
 </div>
