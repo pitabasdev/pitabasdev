@@ -90,13 +90,7 @@ Full Stack Developer 💻
 ![stats_banner](https://user-images.githubusercontent.com/78341798/194534778-d662496c-ae00-4e8d-ae9b-b90912054e7f.gif)
 
 
-<div align="center">
-  <h2>🐍 My Contributions 🐍</h2>
-  <br>
-  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/pitabasdev/pitabasdev/output/github-contribution-grid-snake.svg" />
-  
-  <br/><br/><br/>
-</div>
+
 
 
 <p><img align="left" class="stats" src="https://github-readme-stats.vercel.app/api/top-langs?username=pitabasdev&show_icons=true&locale=en&layout=compact" alt="pitabasdev" /></p>
