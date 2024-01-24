@@ -95,5 +95,4 @@ Full Stack Developer 💻
 
 <p><img align="left" class="stats" src="https://github-readme-stats.vercel.app/api/top-langs?username=pitabasdev&show_icons=true&locale=en&layout=compact" alt="pitabasdev" /></p>
 
-<p>&nbsp;<img align="center" class="stats" style="background-color: black;" src="https://github-readme-stats.vercel.app/api?username=pitabasdev&show_icons=true&locale=en" alt="pitabasdev" /></p>
 </div>
