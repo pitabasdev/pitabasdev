@@ -92,15 +92,16 @@ Full Stack Developer 💻
 
 ![stats_banner](https://user-images.githubusercontent.com/78341798/194534778-d662496c-ae00-4e8d-ae9b-b90912054e7f.gif)
 
-<p >
-  <a href="https://github.com/DenverCoder1/github-readme-streak-stats">
-    <img title="Streak Stats 🔥" alt="DenverCoder1's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=pitabasdev&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
-  </a>
-</p>
 
 
 
 <p><img align="left" class="stats" src="https://github-readme-stats.vercel.app/api/top-langs?username=pitabasdev&show_icons=true&locale=en&layout=compact" alt="pitabasdev" /></p>
 
 <p>&nbsp;<img align="center" class="stats" style="background-color: black;" src="https://github-readme-stats.vercel.app/api?username=pitabasdev&show_icons=true&locale=en" alt="pitabasdev" /></p>
+<p >
+  <a href="https://github.com/DenverCoder1/github-readme-streak-stats">
+    <img title="Streak Stats 🔥" alt="DenverCoder1's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=pitabasdev&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
+  </a>
+</p>
+
 </div>
