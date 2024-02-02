@@ -98,13 +98,10 @@ Full Stack Developer 💻
 <p><img align="left" class="stats" src="https://github-readme-stats.vercel.app/api/top-langs?username=pitabasdev&show_icons=true&locale=en&layout=compact" alt="pitabasdev" /></p>
 
 <p>&nbsp;<img align="center" class="stats" style="background-color: black;" src="https://github-readme-stats.vercel.app/api?username=pitabasdev&show_icons=true&locale=en" alt="pitabasdev" /></p>
-<p >
+<p align="center">
   <a href="https://github.com/DenverCoder1/github-readme-streak-stats">
     <img title="Streak Stats 🔥" alt="DenverCoder1's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=pitabasdev&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
   </a>
 </p>
-## Here is a random joke that'll make you laugh!
-![Jokes Card](https://readme-jokes.vercel.app/api)
-<br><details><summary align="left"> </samp></summary><p align ="centre"> Refresh page to load New joke</p></details>
-</div>
+
 </div>
