@@ -99,9 +99,10 @@ Full Stack Developer 💻
 
 <p>&nbsp;<img align="center" class="stats" style="background-color: black;" src="https://github-readme-stats.vercel.app/api?username=pitabasdev&show_icons=true&locale=en" alt="pitabasdev" /></p>
 <p align="center">
-  <a href="https://github.com/DenverCoder1/github-readme-streak-stats">
+<!--   <a href="https://github.com/DenverCoder1/github-readme-streak-stats">
     <img title="Streak Stats 🔥" alt="DenverCoder1's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=pitabasdev&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
-  </a>
+  </a> -->
+    <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=pitabasdev" alt="GitHub Streak" /></a>
 </p>
 
 </div>
