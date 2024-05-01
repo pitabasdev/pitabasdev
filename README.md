@@ -28,7 +28,7 @@
 
 #### A little more about me
 ```javascript
-const Ridham = {
+const Pitabas = {
   pronouns: "He" | "Him",
   age: 15 ,
   code: ["Javascript", "NodeJs", "HTML", "CSS", "C++"],
