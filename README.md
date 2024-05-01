@@ -22,7 +22,7 @@
   <li>- 🤔 I’m looking for help with `Competitive Programming`</li>
   <li>- 💬 Ask me about anything, Except Maths :sweat_smile:</li>
   <li>- 👨‍💻 Life Hack: Learn new tech :fire: and share what you have learned :tada:</li>
-  <li>- ⚡ Fun fact: I waste most of my time playing games</li>
+  <li>- ⚡ Fun fact: I waste most of my time watching reels</li>
 </ul>
 
 
@@ -31,7 +31,7 @@
 const Ridham = {
   pronouns: "He" | "Him",
   age: 15 ,
-  code: ["Javascript", "Python", "HTML", "CSS", "C++"],
+  code: ["Javascript", "NodeJs", "HTML", "CSS", "C++"],
   askMeAbout: ["web dev", "frontend dev", "python" ],
   technologies: {
       frontend: {
