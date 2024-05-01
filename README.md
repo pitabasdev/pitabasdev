@@ -11,8 +11,11 @@
  <h1>Profile Views : </h1> 
   <img src="https://profile-counter.glitch.me/pitabasdev/count.svg" />
 ========================================================================================
-
-<img align="right"   alt="coding" width="320" height="200" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
+<img align="right" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif">
+<br>
+  <a align='center' href="https://visitcount.itsvg.in">
+  <img src="https://visitcount.itsvg.in/api?id=ridhamrj&label=Profile%20Views&color=0&icon=0&pretty=true" />
+</a>
 
 **Talking about Personal Stuffs:**
 <ul>
