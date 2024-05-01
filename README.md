@@ -127,6 +127,13 @@ const Pitabas = {
         <img src="https://github-readme-activity-graph.vercel.app/graph?username=pitabasdev&theme=github-light&hide_border=true&hide_title=false&area=true&custom_title=Total%20contribution%20graph%20in%20all%20repo" width="95%" alt="activity graph">
     </a>
 </p>
+
+<p align="center">
+<a href="https://wakatime.com/@Voko"><img src="https://wakatime.com/badge/user/8cc8aa38-4041-409b-9d27-a85e5b897ad4.svg?style=social" alt="wakatime"></a>
+<a href="https://github.com/Aleksey-Voko?tab=following"><img src="https://img.shields.io/github/stars/Aleksey-Voko?affiliations=OWNER%2CCOLLABORATOR%2CORGANIZATION_MEMBER&label=Total%20user%20stars%20in%20all%20repo&logoColor=red&style=social" alt="GitHub User's stars"></a>
+<a href="https://github.com/Aleksey-Voko?tab=followers"><img src="https://img.shields.io/github/followers/Aleksey-Voko?&logoColor=red&style=social" alt="GitHub followers"></a>
+</p>
+
 <h2 style="color: #44AEFB">📊 Statistics</h2>
 
 ![stats_banner](https://user-images.githubusercontent.com/78341798/194534778-d662496c-ae00-4e8d-ae9b-b90912054e7f.gif)
