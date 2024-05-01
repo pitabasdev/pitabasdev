@@ -17,7 +17,7 @@
 **Talking about Personal Stuffs:**
 <ul>
   <li>- 🔭 I’m currently working on `Something Intresting`.</li>
-  <li>- 🌱 I’m currently learning NextJS & Typescript</li>
+  <li>- 🌱 I’m currently learning NodeJs & Typescript</li>
   <li>- 👯 I’m looking to collaborate for `Dev Projects`</li>
   <li>- 🤔 I’m looking for help with `Competitive Programming`</li>
   <li>- 💬 Ask me about anything, Except Maths :sweat_smile:</li>
