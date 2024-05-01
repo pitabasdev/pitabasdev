@@ -10,7 +10,8 @@
 </h1>
  <h1>Profile Views : </h1> 
   <img src="https://profile-counter.glitch.me/pitabasdev/count.svg" />
-========================================================================================
+
+<img src="./colored.png"  width="100%" alt="bas"/>
 <img align="right" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif">
 <br>
  
