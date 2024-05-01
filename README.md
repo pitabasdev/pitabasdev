@@ -14,14 +14,37 @@
 
 <img align="right"   alt="coding" width="320" height="200" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
 
-Full Stack Developer 💻
------------------------
+**Talking about Personal Stuffs:**
+<ul>
+  <li>- 🔭 I’m currently working on `Something Intresting`.</li>
+  <li>- 🌱 I’m currently learning NextJS & Typescript</li>
+  <li>- 👯 I’m looking to collaborate for `Dev Projects`</li>
+  <li>- 🤔 I’m looking for help with `Competitive Programming`</li>
+  <li>- 💬 Ask me about anything, Except Maths :sweat_smile:</li>
+  <li>- 👨‍💻 Life Hack: Learn new tech :fire: and share what you have learned :tada:</li>
+  <li>- ⚡ Fun fact: I waste most of my time playing games</li>
+</ul>
 
-* 🌍  I'm based in India
-* ✉️  You can contact me at [pitabas.pradhan834@gmail.com](mailto:pitabas.pradhan834@gmail.com)
-* 🧠  I'm learning Web Development with Different Stacks.
-* 🤝  I'm open to collaborating on Interesting Full Stack Projects .
-* ⚡  Love For Programming .
+
+#### A little more about me
+```javascript
+const Ridham = {
+  pronouns: "He" | "Him",
+  age: 15 ,
+  code: ["Javascript", "Python", "HTML", "CSS", "C++"],
+  askMeAbout: ["web dev", "frontend dev", "python" ],
+  technologies: {
+      frontend: {
+          js: ["React JS", "Next JS" , "Typescript" ],
+          css: ["Tailwind CSS", "SCSS/SASS"]
+      },
+      codeEditor: {
+          competitiveProgramming: ["VS Code"],
+          frontEndDev: ["VS Code"]
+      }
+  }
+}
+```
 
 
 
