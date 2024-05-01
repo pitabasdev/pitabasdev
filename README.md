@@ -5,7 +5,7 @@
 </p>
 
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Pitabas+Pradhan!;+I'm+Full Stack+Developer!;" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=900&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Pitabas+Pradhan!;+I'm+Full Stack+Developer!;" />
 
 </h1>
  <h1>Profile Views : </h1> 
