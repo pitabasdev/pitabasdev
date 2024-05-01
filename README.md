@@ -13,10 +13,7 @@
 ========================================================================================
 <img align="right" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif">
 <br>
-  <a align='center'>
-  <img src="https://visitcount.itsvg.in/api?id=ridhamrj&label=Profile%20Views&color=0&icon=0&pretty=true" />
-</a>
-
+ 
 **Talking about Personal Stuffs:**
 <ul>
   <li>- 🔭 I’m currently working on `Something Intresting`.</li>
