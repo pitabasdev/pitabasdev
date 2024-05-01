@@ -128,7 +128,14 @@ const Pitabas = {
 <a href="https://github.com/issues?q=is%3Aissue+author%3ppitabasdev+archived%3Afalse+is%3Aclosed#gh-light-mode-only"><img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=pitabasdev&theme=github&hide_border=true"  width="64%" alt="@Voko's profile-details"/></a>
 </p>
 
-
+<p align="center">
+    <a href="https://wakatime.com/@Voko#gh-dark-mode-only">
+        <img src="https://github-readme-activity-graph.vercel.app/graph?username=pitabasdev&theme=react-dark&hide_border=true&hide_title=false&area=true&custom_title=Total%20contribution%20graph%20in%20all%20repo" width="95%" alt="activity graph">
+    </a>
+    <a href="pitabas.tech">
+        <img src="https://github-readme-activity-graph.vercel.app/graph?username=pitabasdev&theme=github-light&hide_border=true&hide_title=false&area=true&custom_title=Total%20contribution%20graph%20in%20all%20repo" width="95%" alt="activity graph">
+    </a>
+</p>
 <h2 style="color: #44AEFB">📊 Statistics</h2>
 
 ![stats_banner](https://user-images.githubusercontent.com/78341798/194534778-d662496c-ae00-4e8d-ae9b-b90912054e7f.gif)
